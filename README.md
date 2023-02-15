@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
 <h3 align="center">I am a beginner frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmytro27ind&label=Profile%20views&color=0e75b6&style=flat" alt="dmytro27ind" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmytro27ind&label=Profile%20views&color=0e75b6&style=flat" alt="dmytro27ind" /> </p> -->
 
 - 🌱 I’m currently learning **React, Redux, TypeScript, NodeJS and English**
 
