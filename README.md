@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
 <h3 align="center">I am frontend developer</h3>
 
-<br><br>🌱 I’m currently learning React, Redux, TypeScript, NodeJS and English.<br>📫 How to reach me dmytro27kagirov@gmail.com<br>📄 Know about my experiences https://dmytro27ind.github.io/web-cv/
+<br>🌱 I’m currently learning **React**, **Redux**, **TypeScript**, **NodeJS** and **English**.<br>📫 How to reach me dmytro27kagirov@gmail.com<br>📄 Know about my experiences https://dmytro27ind.github.io/web-cv/
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/Lyn#0933) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmytro-kagirov-a29394266) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/884467275778904145) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dmytro-kagirov-a29394266) 
 
 # 💻 Tech Stack:
 ## Languages:
@@ -16,9 +16,5 @@
 
 ## Back-End:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
