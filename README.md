@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
-<h3 align="center">I am frontend developer</h3>
+<h3 align="center">I am full stack developer</h3>
 
-<br>🌱 I’m currently learning **React**, **Redux**, **TypeScript**, **NodeJS** and **English**.<br>📫 How to reach me dmytro27kagirov@gmail.com<br>📄 Know about my experiences https://dmytro27ind.github.io/web-cv/
+<br>🌱 I’m currently learning **Redux Toolkit**, **TypeScript**, **Express** and **English**.<br>📫 How to reach me dmytro27kagirov@gmail.com<br>📄 Know about my experiences https://dmytro27ind.github.io/portfolio/
 
 
 ## 🌐 Socials:
