@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AE2F7&width=435&lines=I+am+full+stack+developer)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AE2F7&width=435&lines=I+am+full+stack+developer" alt="Typing SVG" />
+  </a>
+</p>
 
 <br>🌱 I’m currently learning **Angular**, **TypeScript**, **Express** and **English**.<br>📫 How to reach me dmytro27kagirov@gmail.com<br>📄 Know about my experiences https://dmytro27ind.github.io/portfolio/
 
