@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AE2F7&width=435&lines=I+am+full+stack+developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=009FF7&width=330&lines=I+am+full+stack+developer" alt="Typing SVG" />
   </a>
 </p>
 
