@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmytro</h1>
-<h3 align="center">I am full stack developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AE2F7&width=435&lines=I+am+full+stack+developer)](https://git.io/typing-svg)
 
 <br>🌱 I’m currently learning **Angular**, **TypeScript**, **Express** and **English**.<br>📫 How to reach me dmytro27kagirov@gmail.com<br>📄 Know about my experiences https://dmytro27ind.github.io/portfolio/
 
