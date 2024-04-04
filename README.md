@@ -31,3 +31,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+ <img width="1000" src="https://raw.githubusercontent.com/Dmytro27Ind/images/48632c7b0669922cee92269edc4f950485dc5db1/github-snake.svg" alt="snake"/>
+</p>
