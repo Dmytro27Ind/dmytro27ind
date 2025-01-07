@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<br>🌱 I’m currently learning **Amazon Web Services (AWS)**, **Docker**, **Express** and **English**.<br>📫 How to reach me dmytro27kagirov@gmail.com<br>📄 Know about my experiences https://dmytro27ind.github.io/portfolio/
+<br>🌱 I’m currently learning **Amazon Web Services (AWS)**.<br>📫 How to reach me dmytro27kagirov@gmail.com<br>📄 Know about my experiences https://dmytro27ind.github.io/portfolio/
 
 
 ## 🌐 Socials:
